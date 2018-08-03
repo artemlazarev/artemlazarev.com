@@ -1,0 +1,6 @@
+file-server
+.idea
+trace.out
+debug.test
+*.iml
+*.github.io.git
