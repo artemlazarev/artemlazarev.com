@@ -5,6 +5,9 @@
 * The selected project stack costs to me 0$ at runtime in the cloud environment.
 * I train my devops skills. I don't want to forget it.
 * I have parametrized resume. That avilible for editing/copy/paste.
+
+feel free to copy-past code from that project
+
 ---
 
 ## Contributing
